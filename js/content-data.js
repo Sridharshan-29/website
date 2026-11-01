@@ -152,7 +152,7 @@ const websiteData = {
             "A New Challenge",
 
         description:
-            "Completed the MEAtec case study and advanced to the second-round technical interview, where I’ll present and discuss my approach, assumptions, and key decisions."
+            "My application for Form Energy’s Battery Modeling Engineer II role was initially selected for an introductory call, but I was later informed that my application would not move forward. I’m continuing to build my skills and pursue battery modeling opportunities with the same enthusiasm."
 
     }
 
